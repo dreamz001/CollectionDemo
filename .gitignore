@@ -1,0 +1,5 @@
+# ignore folder name '.settings'
+/.settings
+# ignore folder name 'target'
+/target
+
