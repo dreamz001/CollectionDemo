@@ -2,4 +2,5 @@
 /.settings
 # ignore folder name 'target'
 /target
-
+# ignore folder name 'bin'
+/bin
